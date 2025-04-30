@@ -1,4 +1,4 @@
-# 🚀 NovaReach
+# 🚀 NovaReach - Personal Project Website
 
 **NovaReach** is a modern, responsive landing page for marketing platform built with **React**, **Tailwind CSS**, and **Framer Motion**.
 
