@@ -3,6 +3,8 @@
 **NovaReach** is a modern, responsive landing page for marketing platform built with **React**, **Tailwind CSS**, and **Framer Motion**.
 
 > Built as a front-end showcase project to demonstrate clean UI, responsive design, and animation techniques.
+>
+> https://nova-reach-website.vercel.app/
 
 ---
 
